@@ -1,7 +1,0 @@
-     3     1
-    CDC1    72     4     1     0     0
-    CDC1    72     5     1     0     0
-    CDC1    72     6     1     0     0
-     1 BACKWARD OMEGA   
-    72     6     3    18   54.450  -70.500   200.0
-    10 PRESSURE THETA    AIR_TEMP RAINFALL MIXDEPTH RELHUMID SPCHUMID H2OMIXRA TERR_MSL SUN_FLUX
